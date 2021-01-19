@@ -1,7 +1,7 @@
 # Cauliflower
-Test with git 
-##to compile
+this is an example repo  to test Cauliflower!
+## to compile
 make
 
-##to run
+## to run
 ./run_this
